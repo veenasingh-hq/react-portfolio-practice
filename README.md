@@ -1,16 +1,77 @@
-# React + Vite
+# React Portfolio Practice
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A responsive portfolio website built with React and Vite as a frontend practice project. This project was created to improve my React skills, component-based development, and responsive UI design.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Responsive Design
+- Modern User Interface
+- Hero Section
+- About Section
+- Skills Section
+- Projects Section
+- Contact Section
+- Clean and Organized Layout
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Vite
+- JavaScript (ES6+)
+- HTML5
+- CSS3
 
-## Expanding the Oxlint configuration
+## 📂 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+```
+react-portfolio-practice/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── App.jsx
+│   └── main.jsx
+├── index.html
+├── package.json
+└── README.md
+```
+
+## 🎯 Purpose
+
+This project was built as a frontend practice project to strengthen my React fundamentals, component structure, responsive design, and modern web development skills.
+
+## 📸 Preview
+
+_Add screenshots of your project here._
+
+## 🌐 Live Demo
+
+Coming Soon
+
+## 💻 Installation
+
+```bash
+git clone https://github.com/your-username/react-portfolio-practice.git
+cd react-portfolio-practice
+npm install
+npm run dev
+```
+
+## 📚 What I Learned
+
+- React Components
+- Props
+- Project Structure
+- Responsive Web Design
+- Vite Setup
+- Clean UI Development
+
+## 👩‍💻 Author
+
+**Veena Singh**
+
+GitHub: https://github.com/veenasingh-hq
+
+---
+
+⭐ If you like this project, consider giving it a star!

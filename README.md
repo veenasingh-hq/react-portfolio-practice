@@ -1,17 +1,31 @@
 # React Portfolio Practice
 
-A responsive portfolio website built with React and Vite as a frontend practice project. This project was created to improve my React skills, component-based development, and responsive UI design.
+A responsive portfolio website built with **React** and **Vite** as a frontend practice project. This project was created to strengthen my React fundamentals, component-based architecture, and responsive web design skills.
 
-## 🚀 Features
+## 🚀 Live Demo
+
+🌐 https://dashing-basbousa-5c307f.netlify.app/
+
+## 📂 GitHub Repository
+
+🔗 https://github.com/veenasingh-hq/react-portfolio-practice
+
+> Replace the repository link with your actual GitHub repository URL.
+
+---
+
+## ✨ Features
 
 - Responsive Design
-- Modern User Interface
+- Modern UI
 - Hero Section
 - About Section
 - Skills Section
 - Projects Section
 - Contact Section
-- Clean and Organized Layout
+- Clean and Reusable Components
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -21,57 +35,67 @@ A responsive portfolio website built with React and Vite as a frontend practice 
 - HTML5
 - CSS3
 
-## 📂 Project Structure
+---
 
-```
-react-portfolio-practice/
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── App.jsx
-│   └── main.jsx
-├── index.html
-├── package.json
-└── README.md
-```
+## 📸 Screenshots
+
+_Add screenshots of the homepage and other sections here._
+
+---
 
 ## 🎯 Purpose
 
-This project was built as a frontend practice project to strengthen my React fundamentals, component structure, responsive design, and modern web development skills.
+This project was built as a **frontend practice project** to improve my React development skills, component organization, responsive layouts, and modern UI design.
 
-## 📸 Preview
+---
 
-_Add screenshots of your project here._
+## 💻 Getting Started
 
-## 🌐 Live Demo
-
-Coming Soon
-
-## 💻 Installation
+### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/react-portfolio-practice.git
+git clone https://github.com/veenasingh-hq/react-portfolio-practice.git
+```
+
+### Navigate to the project
+
+```bash
 cd react-portfolio-practice
+```
+
+### Install dependencies
+
+```bash
 npm install
+```
+
+### Start the development server
+
+```bash
 npm run dev
 ```
+
+---
 
 ## 📚 What I Learned
 
 - React Components
-- Props
 - Project Structure
 - Responsive Web Design
-- Vite Setup
+- Vite Development Workflow
 - Clean UI Development
+- Reusable Components
+
+---
 
 ## 👩‍💻 Author
 
 **Veena Singh**
 
-GitHub: https://github.com/veenasingh-hq
+- GitHub: https://github.com/veenasingh-hq
+- LinkedIn: www.linkedin.com/in/veena-singh01
+
 
 ---
 
-⭐ If you like this project, consider giving it a star!
+⭐ If you found this project interesting, consider giving it a star!

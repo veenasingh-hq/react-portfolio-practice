@@ -37,12 +37,6 @@ A responsive portfolio website built with **React** and **Vite** as a frontend p
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots of the homepage and other sections here._
-
----
-
 ## 🎯 Purpose
 
 This project was built as a **frontend practice project** to improve my React development skills, component organization, responsive layouts, and modern UI design.
